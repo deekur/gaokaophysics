@@ -162,7 +162,7 @@
   <summary><b>3. 个人整理</b></summary>
 
 <ul>
-<li>范璟个人网站整理的历年试卷（主要参考对象，网站[physicsteam](https://www.enjoyphysics.cn)）</li>
+<li>范璟个人网站整理的历年试卷（主要参考对象，网站<a href="https://www.enjoyphysics.cn">physicsteam</a>）</li>
 </ul>
 
 </details>
